@@ -1,2 +1,2 @@
-# Marathon-EDA-
+# Marathon-EDA
 Marathon Exploratory data analysis (EDA)
